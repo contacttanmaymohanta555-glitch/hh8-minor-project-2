@@ -43,11 +43,11 @@ The system consists of two main components communicating over HTTPS:
 
 ## 📸 Screenshots
 ### 🔹 Server Receiving Security Reports
-![Server Logs](screenshots/se<img width="1920" height="1080" alt="server-logs" src="https://github.com/user-attachments/assets/bbb03cdf-b380-4a90-8366-200408444ee7" />
+![Server Logs]<img width="1920" height="1080" alt="server-logs" src="https://github.com/user-attachments/assets/bbb03cdf-b380-4a90-8366-200408444ee7" />
 rver-logs.png)
 
 ### 🔹 Agent Running Health Checks
-![Agent Console](screen<img width="1920" height="1080" alt="Agent-console" src="https://github.com/user-attachments/assets/ab3665b1-fe52-469d-93d4-438b1cde5b01" />
+![Agent Console]<img width="1920" height="1080" alt="Agent-console" src="https://github.com/user-attachments/assets/ab3665b1-fe52-469d-93d4-438b1cde5b01" />
 shots/agent-console.png)
 
 ## 👨‍💻 Author
