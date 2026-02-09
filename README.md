@@ -51,4 +51,11 @@ rver-logs.png)
 shots/agent-console.png)
 
 ## 👨‍💻 Author
-Tanmay Mohanta
+Name: Tanmay Mohanta
+
+Course: B.Tech
+
+Domain: Cybersecurity
+
+Year: 2022–2026
+
